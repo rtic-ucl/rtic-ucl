@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Radiotherapy Image Computing grop (RTIC) # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Radiotherapy Image Computing group (RTIC) # Website name
+baseURL: 'https://rtic-ucl.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
