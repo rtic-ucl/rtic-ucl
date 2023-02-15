@@ -16,9 +16,9 @@ organizations:
 bio: 
 
 interests:
-  - 
-  - 
-  - 
+#  - 
+#  - 
+#  - 
 
 education:
   courses:
