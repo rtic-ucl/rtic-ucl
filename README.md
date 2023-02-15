@@ -1,4 +1,18 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# RTIC website using wowchemy
+Made using wowchemy, deployed using github and netlify. No-code alternative to website building.
+
+Find this website on https://rtic-ucl.netlify.app
+
+This version of an RTIC test website uses the same software as the [POND](https://ucl-pond.github.io) and [MANIFOLD LAB](https://manifold-lab.netlify.app) groups at UCL.
+
+To edit this "research group" template, explore the "contents" folder, as all the files in this folder are contents that show in the corresponding page of the website. The preview looks like a table, and when the edit button is clicked, the file looks like markdown (simple text file). Change any text or image links directly on the document (remember to upload image to "assets/media/" first).
+
+An exception to this are the personal profiles, which are edited in the "authors" folder in github, but that show up in the "people" page of the website.
+
+
+
+
+## [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
