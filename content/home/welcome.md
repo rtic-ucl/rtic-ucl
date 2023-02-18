@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: | 
   The Radiotherapy Image 
   Computing group (RTIC)
-hero_media: welcome.jpg
+hero_media: RTIC at ESTRO 2022 (jamie, catarina, poppy, adam) .png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
