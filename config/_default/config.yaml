@@ -10,6 +10,7 @@ cascade:
   # Configure project pages
   - _target:
       path: /projects/**
+    pager: true
     show_date: false
     editable: false
     reading_time: false
