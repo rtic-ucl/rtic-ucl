@@ -5,7 +5,7 @@ title: Poppy Nikou
 superuser: false
 
 # Role/position
-role: 
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
