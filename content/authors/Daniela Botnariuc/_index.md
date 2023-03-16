@@ -5,7 +5,7 @@ title: Daniela Botnariuc
 superuser: false
 
 # Role/position
-role: Researcher
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
