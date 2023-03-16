@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
-subtitle:
+title: RTIC Twitter
+subtitle: Follow us @RTIC_UCL
 
 design:
-  columns: '1'
+  columns: '2'
   spacing:
     padding: ['5px', '0', '20px', '0']
 advanced:
