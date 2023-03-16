@@ -56,4 +56,4 @@ design:
 ---
 
 If you are interested in contributing or getting involved in the research within RTIC, please get in touch with the principal investigators directly.
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="https://rtic-ucl.netlify.app/people/" cta_text="Meet the team →" %}}
