@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Research vision
+title: 
 subtitle:
 
 design:
@@ -23,4 +23,7 @@ design:
     
 ---
 
+# Research vision
+
 At RTIC we develop advanced image processing methodologies for radiotherapy applications. Our overarching aim is to exploit medical imaging to enable more accurate and safer radiotherapy treatments.
+
