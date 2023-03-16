@@ -4,8 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
-subtitle: RTIC's current research projects
-
+subtitle: 
 # Position of this section on the page
 weight: 1
 
