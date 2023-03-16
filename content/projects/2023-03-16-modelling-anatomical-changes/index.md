@@ -1,15 +1,7 @@
 ---
 title: Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
 date: 2023-03-16
-authors: 
-  - Jamie McClelland
-  - Poppy Nikou
-  - Yuliang Huang
-author_notes:
-  - Principal investigator, Lung motion modelling
-  - Long-term anatomical changes in Head & neck patients
-  - Respiration motion modelling
-profile: true
+
 image:
   placement: 1
   focal_point: "Smart"
