@@ -6,6 +6,22 @@
 title: Radiotherapy Image Computing group (RTIC) # Website name
 baseURL: 'https://rtic-ucl.netlify.app/' # Website URL
 
+cascade:
+  # Configure project pages
+  - _target:
+      path: /projects/**
+    profile: true
+    show_date: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: true
+    show_breadcrumb: false
+    share: true
+    header:
+      navbar:
+        enable: true
+
 ############################
 ## LANGUAGE
 ############################
