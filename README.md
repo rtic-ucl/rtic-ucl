@@ -9,7 +9,9 @@ To edit this "research group" template, explore the "contents" folder, as all th
 
 An exception to this are the personal profiles, which are edited in the "authors" folder in github, but that show up in the "people" page of the website.
 
+For further information, visit the wowchemy documentation: https://wowchemy.com/docs/
 
+-----------------------------------------------------------------------------
 
 
 ## [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
