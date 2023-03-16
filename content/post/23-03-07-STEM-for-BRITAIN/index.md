@@ -1,8 +1,11 @@
 ---
 title: UCL Medical Physics and Biomedical Engineering research presented at STEM for BRITAIN 2023
 date: 2023-03-07
-# image:
-#   focal_point: 'top'
+image:
+  placement: 1
+  focal_point: "Smart"
+  preview_only: false
+  alt_text: RTIC PhD Student Poppy Nikou smiling, standing in front of her "Modelling anatomical changes" poster that is being displayed on a board.
 ---
 
 We were delighted to once again have our research represented at the prestigious STEM for BRITAIN event which took place on Monday 6th March 2023 at the House of Commons.
