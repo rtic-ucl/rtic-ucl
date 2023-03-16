@@ -10,7 +10,6 @@ cascade:
   # Configure project pages
   - _target:
       path: /projects/**
-    profile: true
     show_date: false
     editable: false
     reading_time: false
@@ -18,6 +17,7 @@ cascade:
     show_related: true
     show_breadcrumb: false
     share: true
+    profile: true
     header:
       navbar:
         enable: true
