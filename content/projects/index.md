@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
-subtitle: ''
+subtitle: RTIC's current research projects
 
 # Position of this section on the page
 weight: 1
@@ -29,7 +29,7 @@ content:
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
   # Field to sort by, such as Date or Title
-  sort_by: 'Date'
+  sort_by: 'Title'
   sort_ascending: false
 design:
   # Choose a listing view
