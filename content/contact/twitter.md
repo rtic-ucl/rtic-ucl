@@ -14,8 +14,6 @@ subtitle: Follow us @RTIC_UCL
 
 design:
   columns: '2'
-  spacing:
-    padding: ['5px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
 ---
