@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD students
 ---
 
 I am a PhD student in the RTIC group. I am funded by EPSRC and our industrial collaborator Elekta, working on respiration motion modelling with CBCT images for lung cancer patients. I am keen to research general deep learning and optimization techniques, as well as their application in more specific domains such as image registration/reconstruction, automatic treatment planning and adaptation of radiotherapy, etc.
