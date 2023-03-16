@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Research fellows
 ---
 
 Adam Szmul is a Senior Research Fellow at Radiotherapy Image Computing Group within the UCL Wellcome/EPSRC Centre for Interventional and Surgical Sciences. Adam completed his DPhil at the Institute of Biomedical Engineering at the University of Oxford, where he worked on novel methods for multi-modal lung image registration for CT, MRI and hyperpolarised Xenon-MRI, and CT-based ventilation estimation methods. While at UCL, Adam worked on developing an automatic framework for identifying and segmenting different classes of parenchymal lung damage. Recently, he worked on AI-methods for image synthesis for paediatric abdomen patients using unsupervised machine learning techniques. Adam coordinated RTIC’s appearances at Science of Surgery and at Bloomsbury Festival. Adam is also engaging with policy makers by presenting his research at the House of Parliament and in Multi-agency advisory service for AI and digital technologies. Adam was previously awarded CMIC Platform Grant and UCL-PKU Strategic Partner Grant by UCL Global Engagement.
