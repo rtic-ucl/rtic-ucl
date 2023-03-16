@@ -50,6 +50,9 @@ content:
 
 design:
   columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "5px", "0"]
 ---
 
 If you are interested in contributing or getting involved in the research within RTIC, please get in touch with the principal investigators directly.
