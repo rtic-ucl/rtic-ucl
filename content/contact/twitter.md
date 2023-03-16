@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: RTIC Twitter →
+title: RTIC Twitter
 subtitle: Follow us @RTIC_UCL
 
 design:
