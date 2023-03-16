@@ -21,13 +21,13 @@ interests:
 #  - 
 
 education:
-  courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+#  courses:
+#    - course: 
+#      institution: 
+#      year: 
+#    - course: 
+#      institution: 
+#      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
