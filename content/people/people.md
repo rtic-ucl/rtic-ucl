@@ -18,6 +18,8 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Research fellows
+    - PhD students
     - Graduate students
     - Affiliates
     - Visitors
