@@ -1,45 +1,9 @@
 ---
 title: Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
 date: 2023-03-16
-authors: ["Poppy Nikou"]
+authors: 
+  - Poppy Nikou
 
-# Show the page's date?
-show_date: false
-
-# Show estimated reading time?
-reading_time: false
-
-# Show social sharing links?
-share: true
-
-# Show author profile (photo and bio) under the content?
-# Edit your author profiles in the `content/authors/` folder
-# Then reference their folder names with the `authors` front matter option above
-profile: true
-
-# Allow users to comment on the page?
-# Requires commenting to be configured in `params.yaml`
-commentable: false
-
-# Allow visitors to make improvements to the page?
-# Requires a repository to be configured in `params.yaml`
-editable: false
-
-# Show a link to the next article in the series?
-pager: true
-
-# Show recommendations for related content?
-show_related: true
-
-# Show breadcrumb navigation?
-show_breadcrumb: false
-
-# Hide the navigation bar?
-# Often used together with `show_breadcrumb`
-header:
-  navbar:
-    enable: true
-    
 image:
   placement: 1
   focal_point: "Smart"
