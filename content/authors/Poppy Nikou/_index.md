@@ -33,9 +33,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'poppy.nikou.20@ucl.ac.uk'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: 
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://uk.linkedin.com/in/poppy-nikou-474302154'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: 
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD students
 ---
 
 I am a third year PhD student within the center for medical imaging computing at UCL. My research focuses on building head and neck cancer patient models using CT and CBCT imaging. These models can be used to apprehend daily changes in anatomy of a specific patient, aiding in robust treatment planning and adaptive radiotherapy pathways.
