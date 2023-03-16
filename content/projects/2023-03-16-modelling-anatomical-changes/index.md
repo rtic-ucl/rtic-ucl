@@ -9,7 +9,7 @@ author_notes:
   - Principal investigator, Lung motion modelling
   - Long-term anatomical changes in Head & neck patients
   - Respiration motion modelling
-
+profile: true
 image:
   placement: 1
   focal_point: "Smart"
