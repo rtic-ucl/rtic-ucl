@@ -32,6 +32,9 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
