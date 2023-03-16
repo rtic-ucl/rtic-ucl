@@ -15,6 +15,7 @@ weight: 30
 title:
 subtitle:
 
+# change the image to group picture later
 design:
   columns: '1'
   background:
