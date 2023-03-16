@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PhD students
 ---
 
 Alkisti is a doctoral student in medical image computing working in the Radiotherapy Image Computing Group (RTIC) at the Centre for Medical Image Computing (CMIC) at UCL. Her doctoral research focuses on image-based analysis of Radiation Induced Lung Damage (RILD), where she is developing classical image processing and deep learning frameworks to enable the large scale study of long term side effects of lung irradiation as cancer treatment. She has also been involved in the supervision of undergraduate and graduate student projects and has been a teaching assistant in Physics and Computer Science at UCL for years.
