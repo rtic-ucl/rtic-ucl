@@ -1,8 +1,7 @@
 ---
 title: Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
 date: 2023-03-16
-authors: 
-  - Poppy Nikou
+authors: ["Poppy Nikou"]
 
 image:
   placement: 1
