@@ -12,7 +12,8 @@ headless: true
 weight: 70
 
 title: |
-        Our Collaborators
+       Our Collaborators
+       |
 subtitle:
 
 hero_media: UCLH.jpg
@@ -21,6 +22,7 @@ design:
   columns: '1'
   spacing:
     padding: ['20px', '0', '20px', '0']
+  font-size: 0.75em
 ---
 
 - [Wellcome / EPSRC Centre for Interventional and Surgical Sciences, WEISS, UCL](https://www.ucl.ac.uk/interventional-surgical-sciences/)
