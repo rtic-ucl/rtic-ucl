@@ -34,7 +34,7 @@ design:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  view: 3
+  view: card
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
