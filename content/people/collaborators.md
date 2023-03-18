@@ -1,7 +1,6 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+# An instance of the hero widget
+widget: hero
 
 # Activate this widget? true/false
 active: true
@@ -18,7 +17,7 @@ subtitle:
 hero_media: UCLH.png
 
 design:
-  columns: '2'
+  columns: '1'
   spacing:
     padding: ['20px', '0', '20px', '0']
 ---
