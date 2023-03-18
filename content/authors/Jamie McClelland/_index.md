@@ -64,7 +64,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Modelling anatomical changes team
+
 ---
 
 Jamie is an Associate Professor Associate of Radiotherapy Image Computing in the department of Medical Physics and Biomedical Engineering at UCL, and co-lead of the RadioTherapy Image Computing (RTIC) group at the Centre for Medical Image Computing (CMIC). His research focusses on applying state-of-the-art medical image processing and analysis primarily for Radiotherapy related applications, which a particular focus on modelling and compensating for respiratory motion during imaging, planning, and treatment delivery. He has extensive teaching experience at UCL including being the current module lead for the Information Processing in Medical Imaging module and previously a co-organiser of the annual MedICSS summer school. He has lectured at a number of national and international meetings including the ESTRO teaching courses.
