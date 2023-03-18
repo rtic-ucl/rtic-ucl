@@ -34,11 +34,7 @@ design:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation
-  #   5 = Showcase
-  #   Masonry (pinterest-style board)
-  
-  view: 5
+  view: 3
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
