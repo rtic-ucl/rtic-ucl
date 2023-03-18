@@ -29,12 +29,5 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
-# Choose a listing view
-#   1 = List
-#   2 = Compact
-#   3 = Card
-design:
-  view: 3
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: 1
+
 ---
