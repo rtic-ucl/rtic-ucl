@@ -15,8 +15,10 @@ weight: 70
 title: Our Collaborators
 subtitle:
 
+hero_media: UCLH.png
+
 design:
-  columns: '1'
+  columns: '2'
   spacing:
     padding: ['20px', '0', '20px', '0']
 ---
