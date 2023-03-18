@@ -23,7 +23,19 @@ design:
     
 ---
 
-# Research vision
+# Our Research Vision
+Our research group's vision is to advance the field of radiotherapy image computing to improve cancer patient outcomes.
 
-At RTIC we develop advanced image processing methodologies for radiotherapy applications. Our overarching aim is to exploit medical imaging to enable more accurate and safer radiotherapy treatments.
+## Software
+Developing cutting-edge computational techniques: We are dedicated to creating innovative algorithms and computational models that address current challenges and push the boundaries of radiotherapy image computing.
+{{% cta cta_link="" cta_text="See our software →" %}}
 
+## Research environment
+Fostering a multidisciplinary research environment: We are committed to promoting a collaborative atmosphere where experts from various fields work together to solve complex problems in radiotherapy image computing.
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+
+## Clinical focus
+Collaborations with clinical partners: We work closely with clinicians to ensure our research translates into practical solutions that enhance the effectiveness and safety of radiotherapy for patients.
+{{% cta cta_link="./people/" cta_text="Our collaborators →" %}}
+
+Join us on our journey to transform the field of radiotherapy image computing and make a lasting impact on the lives of cancer patients worldwide.
