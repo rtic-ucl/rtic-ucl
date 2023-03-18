@@ -1,6 +1,5 @@
 ---
 widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
-headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
@@ -35,7 +34,11 @@ design:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  view: compact
+  #   4 = Citation
+  #   5 = Showcase
+  #   Masonry (pinterest-style board)
+  
+  view: showcase
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
