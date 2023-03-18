@@ -38,7 +38,7 @@ design:
   #   5 = Showcase
   #   Masonry (pinterest-style board)
   
-  view: showcase
+  view: 5
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
