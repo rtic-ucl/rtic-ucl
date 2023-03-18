@@ -2,6 +2,18 @@
 title: 3D-Printed phantoms for quality assurance in paediatric radiotherapy
 date: 2023-03-18
 
+authors: 
+  - Cristina Ghica
+  - Catarina Veiga
+author_notes:
+  - 
+  - Supervisor and Principal Investigator
+tags:
+  - Paediatrics
+  - Phantoms
+
+profile: true
+
 image:
   placement: 1
   focal_point: "Smart"
