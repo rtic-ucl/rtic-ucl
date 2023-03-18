@@ -59,7 +59,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD students
-  - Modelling anatomical changes team
+
 ---
 
 I am a third year PhD student within the center for medical imaging computing at UCL. My research focuses on building head and neck cancer patient models using CT and CBCT imaging. These models can be used to apprehend daily changes in anatomy of a specific patient, aiding in robust treatment planning and adaptive radiotherapy pathways.
