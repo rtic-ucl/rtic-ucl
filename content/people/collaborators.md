@@ -15,7 +15,7 @@ title: |
         Our Collaborators
 subtitle:
 
-hero_media: UCLH.jpg
+hero_media: UCLH.jpg "University College Hospital, UCH, London"
 
 design:
   columns: '1'
