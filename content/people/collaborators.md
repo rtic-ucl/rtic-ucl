@@ -14,7 +14,7 @@ weight: 70
 title: Our Collaborators
 subtitle:
 
-hero_media: UCLH.png
+hero_media: UCLH.jpg
 
 design:
   columns: '1'
