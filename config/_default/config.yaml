@@ -10,14 +10,14 @@ cascade:
   # Configure project pages
   - _target:
       path: /projects/**
-    pager: true
+    pager: true # pager means the previous/next article buttons
     show_date: false
     editable: false
     reading_time: false
     commentable: false
     show_related: true
     show_breadcrumb: false
-    share: true
+    share: false
     profile: true
     header:
       navbar:
