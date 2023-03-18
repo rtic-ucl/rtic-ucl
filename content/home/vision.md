@@ -28,7 +28,7 @@ Our research group's vision is to advance the field of radiotherapy image comput
 
 ## Software
 Developing cutting-edge computational techniques: We are dedicated to creating innovative algorithms and computational models that address current challenges and push the boundaries of radiotherapy image computing.
-{{% cta cta_link="" cta_text="See our software →" %}}
+{{% cta cta_link="./software/" cta_text="See our software →" %}}
 
 ## Research environment
 Fostering a multidisciplinary research environment: We are committed to promoting a collaborative atmosphere where experts from various fields work together to solve complex problems in radiotherapy image computing.
@@ -36,6 +36,6 @@ Fostering a multidisciplinary research environment: We are committed to promotin
 
 ## Clinical focus
 Collaborations with clinical partners: We work closely with clinicians to ensure our research translates into practical solutions that enhance the effectiveness and safety of radiotherapy for patients.
-{{% cta cta_link="./people/" cta_text="Our collaborators →" %}}
+{{% cta cta_link="./people/#collaborators" cta_text="Our Collaborators →" %}}
 
 Join us on our journey to transform the field of radiotherapy image computing and make a lasting impact on the lives of cancer patients worldwide.
