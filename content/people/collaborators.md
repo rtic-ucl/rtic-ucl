@@ -11,8 +11,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Our Collaborators
-       
+title: |
+        Our Collaborators
 subtitle:
 
 hero_media: UCLH.jpg
