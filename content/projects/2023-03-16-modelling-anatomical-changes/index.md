@@ -2,6 +2,18 @@
 title: Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
 date: 2023-03-16
 
+authors: 
+  - Poppy Nikou
+  - Jamie McClelland
+author_notes:
+  - PhD student
+  - Supervisor and Principal Investigator
+tags:
+  - Head and Neck cancer
+  - Lung cancer
+
+profile: true
+
 image:
   placement: 1
   focal_point: "Smart"
