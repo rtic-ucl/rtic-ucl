@@ -16,7 +16,8 @@ organizations:
 bio: My name is Mariana, I'm 25 years old, and I come from a small town in Portugal by the coast. Graduated as a Biomedical Engineer, science, technology, research, innovation and persistence are the keywords defining me as a professional. My PhD research is on developing 3D printed phantoms for quality assurance in paediatric radiotherapy.
 
 interests:
-  - 
+  - 3D printed phantoms
+  - Paediatric radiotherapy
 
 education:
   courses:
