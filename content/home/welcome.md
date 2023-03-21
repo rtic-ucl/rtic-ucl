@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: | 
   The Radiotherapy Image 
-  Computing group (RTIC)
+  Computing group 
 # change hero_media to picture of whole group later
 hero_media: RTIC at ESTRO 2022 (jamie, catarina, poppy, adam) .png
 design:
@@ -21,4 +21,4 @@ design:
 
 <br>
 
-At **RTIC** we develop advanced image processing methodologies for radiotherapy applications. Our overarching aim is to exploit medical imaging to enable more accurate and safer radiotherapy treatments.
+Welcome to the Radiotherapy Image Computing Research Group (RTIC). At RTIC, we develop advanced image processing methodologies for radiotherapy applications. Our multidisciplinary team of experts in medical physics and computer science is dedicated to creating innovative solutions that improve the efficiency, accuracy, and safety of radiotherapy for cancer patients worldwide.
