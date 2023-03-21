@@ -18,6 +18,9 @@ bio: My research interests include building head and neck cancer patient models 
 interests:
   - Head and neck cancer
   - CT/CBCT imaging
+  - Medical image registrations
+  - Treatment planning
+  - Proton radiotherapy
 
 education:
   courses:
