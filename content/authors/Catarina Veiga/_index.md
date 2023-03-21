@@ -65,7 +65,7 @@ user_groups:
   - Principal Investigators
 ---
 
-Biography
+## Biography
 
 I have a BSc Physics from the University of Minho (Braga, Portugal), and have specialised in Medical Physics with an MSc from the University of Porto (Porto, Portugal). During my MSc I spent one year at University College London (UCL) under the Erasmus Lifelong Learning Programme, where I became interested in radiotherapy (namely proton therapy) research. 
 
