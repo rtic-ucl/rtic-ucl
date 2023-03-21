@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: | 
   The Radiotherapy Image 
-  Computing group 
+  Computing Research group 
 # change hero_media to picture of whole group later
 hero_media: RTIC at ESTRO 2022 (jamie, catarina, poppy, adam) .png
 design:
