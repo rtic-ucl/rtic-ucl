@@ -37,9 +37,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'c.veiga@ucl.ac.uk'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: 
+  - icon: twitter
+    icon_pack: fab
+    link: 'https://twitter.com/catarinavveiga'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/catarina-veiga-09b7a246/'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=AYhJD_cAAAAJ&hl=pt-PT'
