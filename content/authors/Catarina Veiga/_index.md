@@ -16,9 +16,9 @@ organizations:
 bio: 
 
 interests:
-#  - 
-#  - 
-#  - 
+  - Proton therapy
+  - Peadiatric radiotherapy
+  - Adaptive radiotherapy
 
 education:
 #  courses:
