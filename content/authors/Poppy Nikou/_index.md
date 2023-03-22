@@ -35,7 +35,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'poppy.nikou.20@ucl.ac.uk'
+    link: 'mailto:poppy.nikou.20@ucl.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: 'https://uk.linkedin.com/in/poppy-nikou-474302154'
