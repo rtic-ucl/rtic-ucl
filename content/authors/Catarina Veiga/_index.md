@@ -17,7 +17,7 @@ bio:
 
 interests:
   - Proton therapy
-  - Peadiatric radiotherapy
+  - Paediatric radiotherapy
   - Adaptive radiotherapy
 
 education:
