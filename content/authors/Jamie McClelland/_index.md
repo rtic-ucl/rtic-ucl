@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'j.mcclelland@ucl.ac.uk'
+    link: 'mailto:j.mcclelland@ucl.ac.uk'
 #  - icon: twitter
 #    icon_pack: fab
 #    link:
