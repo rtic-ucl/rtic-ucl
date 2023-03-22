@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'c.veiga@ucl.ac.uk'
+    link: 'mailto:c.veiga@ucl.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: 'https://twitter.com/catarinavveiga'
