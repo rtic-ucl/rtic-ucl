@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'alkisti.stavropoulou.16@ucl.ac.uk'
+    link: 'mailto:alkisti.stavropoulou.16@ucl.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=4XEhT0oAAAAJ&hl=en'
