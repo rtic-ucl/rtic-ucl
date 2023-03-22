@@ -35,7 +35,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'daniela.botnariuc.19@ucl.ac.uk'
+    link: 'mailto:daniela.botnariuc.19@ucl.ac.uk'
 #  - icon: twitter
 #    icon_pack: fab
 #    link:
