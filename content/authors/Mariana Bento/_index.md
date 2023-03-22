@@ -33,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mariana.bento.20@ucl.ac.uk'
+    link: 'mailto:mariana.bento.20@ucl.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: 'https://pt.linkedin.com/in/mariana-c-bento'
