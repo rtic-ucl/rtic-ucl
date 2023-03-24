@@ -16,7 +16,7 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'Research group'
     org_name: 'RTIC'
     description: 'Radiotherapy Image Computing Group (RTIC) UCL | Advanced image processing methodologies for radiotherapy applications'
     twitter: 'https://twitter.com/rtic_ucl'
@@ -99,6 +99,8 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  require_fancybox:
+    enable: true
 
 # Extensions
 
