@@ -36,4 +36,3 @@ design:
 - [National Physical Laboratory, NPL](https://www.npl.co.uk)
 - [University of Auckland](https://www.auckland.ac.nz/en.html)
 
-{{< github-Chrede88-figArray numCols=2 srcArray="UCLH.jpg,Christie-Hospital-on-Street-View-Trusted.jpg" thumbCaption="UCH London,The Christie Hospital NHS" >}}
