@@ -1,8 +1,8 @@
 # RTIC website using wowchemy
 Made using wowchemy, deployed using github and netlify. No-code alternative to website building.
 
-- [How to add a new person profile](## How to add a new person profile)
-- [How to add a new project page (unfinished)](## How to add a new project page)
+- [How to add a new person profile](##How to add a new person profile)
+- [How to add a new project page (unfinished)](##How to add a new project page)
 
 Find this website on https://rtic-ucl.netlify.app
 
