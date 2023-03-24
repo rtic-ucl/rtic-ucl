@@ -19,7 +19,7 @@ For further information, visit the wowchemy documentation: https://wowchemy.com/
 
 1. Go to rtic-ucl/wowchemy-rtic-website/content/authors
 ![Go to rtic-ucl/wowchemy-rtic-website/ repository in github then click content](peopledocs1.png "Click on content folder")
-![Click authors](peopledocs2.png "Click on authors folder")
+![Click authors](forREADme/peopledocs2.png "Click on authors folder")
 ![Authors folder](peopledocs3.png "Authors folder")
 This is the authors folder, where information of group members is stored. It is then displayed to the website via the people widget (../content/people/people.md).
 
