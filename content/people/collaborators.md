@@ -1,6 +1,6 @@
 ---
-# An instance of the hero widget
-widget: hero
+# An instance of the blank widget
+widget: blank
 
 # Activate this widget? true/false
 active: true
@@ -14,10 +14,8 @@ weight: 70
 title: 'Our Collaborators'
 subtitle: 'At RTIC we work with leading hospitals, universities and industry partners worldwide. Some of our collaborators include:'
 
-hero_media: UCLH.jpg
-
 design:
-  columns: '1'
+  columns: '2'
   spacing:
     padding: ['20px', '0', '20px', '0']
 
@@ -35,3 +33,5 @@ design:
 - [Elekta](https://www.elekta.com)
 - [National Physical Laboratory, NPL](https://www.npl.co.uk)
 - [University of Auckland](https://www.auckland.ac.nz/en.html)
+
+{{< github-Chrede88-figArray numCols=2 srcArray="UCLH.jpg,Christie-Hospital-on-Street-View-Trusted.jpg" thumbCaption="UCH London,The Christie Hospital NHS" >}}
