@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: RTIC at ESTRO 2022 (jamie, catarina, poppy, adam) .png
+    image: RTIC Group.JPG
     image_darken: 0
     image_parallax: false
     image_position: center
