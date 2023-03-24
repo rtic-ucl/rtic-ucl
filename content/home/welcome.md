@@ -10,7 +10,7 @@ title: |
   The Radiotherapy Image 
   Computing Research group 
 
-hero_media: RTIC Group.JPG
+hero_media: RTIC Group.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
