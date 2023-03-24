@@ -13,8 +13,7 @@ weight: 70
 
 title: |
        Our Collaborators
-
-subtitle:
+subtitle: At RTIC we work with leading hospitals, universities and industry partners worldwide. Some of our collaborators include:
 
 hero_media: UCLH.jpg
 
