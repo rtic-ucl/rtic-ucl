@@ -1,6 +1,11 @@
 ---
 # Display name
 title: Catarina Veiga
+
+# Username (this should match the folder name)
+authors:
+  - Catarina Veiga
+
 # Is this the primary user of the site?
 superuser: false
 
