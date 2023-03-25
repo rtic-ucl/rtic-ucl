@@ -1,6 +1,11 @@
 ---
 # Display name
 title: Mariana Bento
+
+# Username (this should match the folder name)
+authors:
+  - Mariana Bento
+
 # Is this the primary user of the site?
 superuser: false
 
