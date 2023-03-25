@@ -1,6 +1,11 @@
 ---
 # Display name
 title: Yuliang Huang
+
+# Username (this should match the folder name)
+authors:
+  - Yuliang Huang
+
 # Is this the primary user of the site?
 superuser: false
 
