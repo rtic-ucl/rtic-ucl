@@ -1,6 +1,11 @@
 ---
 # Display name
 title: Daniela Botnariuc
+
+# Username (this should match the folder name)
+authors:
+  - Daniela Botnariuc
+
 # Is this the primary user of the site?
 superuser: false
 
