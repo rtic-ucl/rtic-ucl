@@ -11,6 +11,8 @@ role: PhD student
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=KSTAV60'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
