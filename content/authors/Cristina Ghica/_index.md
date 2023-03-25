@@ -11,6 +11,8 @@ role: PhD student
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=AGHIC92'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -37,10 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'cristina.ghica.18@ucl.ac.uk'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/cristina-ghica-93b564190/'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/scientific-contributions/Cristina-Ghica-2236367111'
 #  - icon: github
 #    icon_pack: fab
 #    link: ''
