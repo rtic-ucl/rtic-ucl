@@ -11,6 +11,8 @@ role: PhD student
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=PNIKO15'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include building head and neck cancer patient models using CT and CBCT imaging.
