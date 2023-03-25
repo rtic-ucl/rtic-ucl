@@ -22,7 +22,7 @@ interests:
   - Paediatric radiotherapy
   - Adaptive radiotherapy
 
-education:
+# education:
 #  courses:
 #    - course: 
 #      institution: 
