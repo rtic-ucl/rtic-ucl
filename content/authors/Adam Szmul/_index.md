@@ -51,9 +51,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 'https://uk.linkedin.com/in/adam-szmul-6545a0113'
- - icon: ucl
-   icon_pack: custom
-   link: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=ASZMU61'
+  - icon: ucl
+    icon_pack: custom
+    link: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=ASZMU61'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
