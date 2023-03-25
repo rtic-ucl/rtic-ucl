@@ -32,7 +32,7 @@ This is the authors folder, where information of group members is stored. It is 
 3. Then, copy the "_index.md" file from a different person's folder to use as a template. 
 ![Add contents from another person's _index.md into the file](peopledocs8.png "Add other person's file to use as template")
 
-4. Replace the name in the "title: " field to the display name for the person you want to make a profile for. *Display name* means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name).
+4. Replace the name in the "title: " field to the display name for the person you want to make a profile for. *Display name* means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name). The username "author: " field should be set to the same name as the folder name.
 
 5. The 'superuser' sets the main/primary user of the site. If set to "true", then that user would have a small profile/bio appear below any blog articles/projects where they are set to author. For now, all people are set to "superuser: false".
 
