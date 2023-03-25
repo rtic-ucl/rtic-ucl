@@ -2,7 +2,7 @@
 Made using wowchemy, deployed using github and netlify. No-code alternative to website building.
 
 - [How to add a new person profile](##how-to-add-a-new-person-profile)
-- [How to add a new project page (unfinished)](##how-to-add-a-new-project-page)
+- [How to add a new project page](##how-to-add-a-new-project-page)
 
 Find this website on https://rtic-ucl.netlify.app
 
@@ -67,7 +67,7 @@ To see which social media/academic icons are already available within the Wowche
 16. Finally, anything under the three dashes (---) will appear in that person's personal page. Add as little or as much information as you like: for example, a biography, fun facts about that person, or details about theur research. This section is written in markdown, so titles, bold text, and italic text can be added if desired. (see https://wowchemy.com/docs/content/writing-markdown-latex/)
 ![Write biography under the three dashes (---)](peopledocs12.png "Biography")
 
-17. To publish this author profile, scroll down to "Commit new file" and click the green "Commit new file" button. At this point, the person's profile is published and should appear on the website within a few minues.
+17. To publish this author profile, scroll down to "Commit new file" and click the green "Commit new file" button. At this point, the person's profile is published and should appear on the website within a few minutes. :tada:
 ![Click on Commit new file button](peopledocs13.png "Commit new file")
 
 #### Adding a profile picture
@@ -90,7 +90,52 @@ To see which social media/academic icons are already available within the Wowche
 
 ## How to add a new project page
 
-...
+1. Go to "rtic-ucl/wowchemy-rtic-website/content/projects/". Click "Add file" and then "Create new file".
+![Click content folder](projectdocs1.png "Go to content folder")
+![Click projects folder](projectdocs2.png "Click projects folder")
+![Click Add file and then Create new file in the drop down menu](projectdocs3.png "Create a new file")
+
+2. Type a project name in the naming field in the format "yyyy-mm-dd-keywords" for easy sorting. For example, "2023-03-25-example-project". Then, type a slash (/) to automatically create a folder, and type "index.md".
+![Type project name in aforementioned format, then a slash to automatically create a folder](projectdocs4.png "Creating project folder")
+![Type index.md](projectdocs5.png "'index.md' in project folder")
+
+3. In this new file, copy and paste the contents from a different project to use as a template.
+
+4. The first field "title: " is the project's display name. Type it as you want it to appear on the website.
+
+5. Add the date in the "date: " field in the format "yyyy-mm-dd" (year first, then month, then date) for sorting purposes.
+
+6. In the "authors: " field, type a list of people in this project. Their names will show up in the project page with a clickable link to their profile. The "author_notes: " field can include extra information about each respective author when hovering on their name. For example, "- Supervisor".
+![Authors, author notes, and project tags](projectdocs6.png "Authors, author notes, and project tags")
+
+7. The "tags: " field is a list of tags which will appear below the project description the website. Add any keywords, for example "- Dosimetry".
+
+8. "profile: true" is supposed to enable author bios underneath the project descriptions, but this does not seem to work. :pensive:
+![Profile and Image display settings](projectdocs7.png "Profile and Image display settings")
+
+9. The lines under "image: " affect the appearance of the project's features image. "placement: " affects the image width in the project page. Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width. Defaults to 1, full column width. "focal_point: " affects how the image is cropped in the preview for smaller screens. Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight. Set "preview_only" to "true" to just use the image for the thumbnail in the preview and not the actual project page. "alt_text: " sets alternative text for screen readers or for errors/poor connection when the image cannot be displayed.
+
+10. Everything under the three dashes (---) will appear as an extended description in the project page. But any sentences above the `<!-- more --> ` tag will also appear in the preview. The paragraph(s) underneath can be formatted in markdown, [click here](https://wowchemy.com/docs/content/writing-markdown-latex/) for more formatting options.
+![Extended description under the three dashes ---](projectdocs8.png "Extended description")
+
+11. Finally, click the green "Commit new file" button, and the project page should be published to the website within a few minutes. :tada:
+![Scroll down and click Commit new file button](projectdocs9.png "Commit new file")
+
+#### Adding a featured picture
+
+12. The "featured" picture is the picture that appears in the project preview, and also at the top of the project page if "preview_only: " is set to "false". Find the project image in you computer files, and rename it to "featured.png", or "featured.jpg" depending on the file type.
+![Find desired picture file in computer files](projectdocs10.png "Find file in computer files")
+![Rename to featured.png or featured.jpg](projectdocs11.png "Rename file")
+
+13. Go the the project's folder, created in step 2., and click "Add file" then "Upload new file".
+![Click Add file in the corresponding project folder, then click Upload file in the drop down menu](projectdocs12.png)
+
+14. You will be taken to a new page that says "Drag files here to add them to your repository" in the centre (the upload page). Either drag and drop the "featured.png"/"featured.jpg" file to this page or click on "choose your files" to upload the picture to the repository.
+![Either drag picture file to centre of upload page, or click blue text that says choose your files](projectdocs13.png "Upload page")
+![Choosing picture file from computer files](projectdocs14.png "Choosing file")
+
+15. Click "Commit changes" (green button), and the picture should appear in the project's page on the website within a few minutes.
+![Click green button at the bottom of page that says Commit changes](projectdocs15.png "Commit changes")
 
 -----------------------------------------------------------------------------
 
