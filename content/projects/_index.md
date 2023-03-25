@@ -3,9 +3,9 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
-subtitle: 
+# subtitle: Our group is focused on developing and applying state-of-the art methods to solve challenging problems in radiotherapy image computing. We use a wide range of techniques, from image processing algorithms and statistical modelling to machine learning and deep learning. We also have experience in developing physical phantoms to be used in paediatric radiotherapy.
 # Position of this section on the page
-weight: 1
+weight: 10
 
 content:
   # Filter content to display
@@ -13,14 +13,14 @@ content:
     # The folders to display content from
     folders:
       - projects
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
     featured_only: false
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+#    tag: ''
+#    category: ''
+#    publication_type: ''
+#    author: ''
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
