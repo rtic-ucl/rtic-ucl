@@ -11,6 +11,8 @@ role: PhD student
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=DBOTN52'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -36,6 +38,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:daniela.botnariuc.19@ucl.ac.uk'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Daniela-Botnariuc-3'
 #  - icon: twitter
 #    icon_pack: fab
 #    link:
