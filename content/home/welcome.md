@@ -22,8 +22,3 @@ design:
 <br>
 
 Welcome to the Radiotherapy Image Computing Group (RTIC). At RTIC, we develop advanced image processing methodologies for radiotherapy applications. Our multidisciplinary team of experts in medical physics and computer science is dedicated to creating innovative solutions that improve the efficiency, accuracy, and safety of radiotherapy for cancer patients worldwide.
-
-Affiliations:
-- [University College London (UCL)](https://www.ucl.ac.uk/)
-- [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/)
-- [Wellcome / EPSRC Centre for Interventional and Surgical Sciences (WEISS)](https://www.ucl.ac.uk/interventional-surgical-sciences/)
