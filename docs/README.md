@@ -32,7 +32,7 @@ This is the authors folder, where information of group members is stored. It is 
 3. Then, copy the "_index.md" file from a different person's folder to use as a template. 
 ![Add contents from another person's _index.md into the file](peopledocs8.png "Add other person's file to use as template")
 
-4. Replace the name in the "title: " field to the display name for the person you want to make a profile for. This means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name).
+4. Replace the name in the "title: " field to the display name for the person you want to make a profile for. *Display name* means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name).
 
 5. The 'superuser' sets the main/primary user of the site. If set to "true", then that user would have a small profile/bio appear below any blog articles/projects where they are set to author. For now, all people are set to "superuser: false".
 
@@ -49,11 +49,11 @@ This is the authors folder, where information of group members is stored. It is 
 
 To add another degree, copy and paste the "- course/institution:/year:" bulletpoint such that the alignment is the same in both, and replace with the other course's information. (Note that for all existing author profiles, I added the most recent degrees at the top of the list.)
 
-11. For social and academic networking, replace the link with the link to that person's corresponding social media or academic profile. If a type of profile (e.g. twitter) is not used, comment it out by adding hashtags (# ) at the statr of each line, or alternatively delete that whole "- icon:/ icon_pack:/ link:" bulletpoint.
+11. For social and academic networking, replace the link with the link to that person's corresponding social media or academic profile. If a type of profile (e.g. twitter) is not used, comment it out by adding hashtags (# ) at the start of each line, or alternatively delete that whole "- icon:/ icon_pack:/ link:" bulletpoint.
 ![Social/academic networking](peopledocs10.png "Social/academic networking")
 This contents will appear as clickable icons below that person's name and role, which will open the corresponding link in a new tab.
 
-To see which socialmedia/academic icons are already available within the Wowchemy icon packs, and for more information about this widget, visit this link: https://wowchemy.com/docs/getting-started/page-builder/#icons.
+To see which social media/academic icons are already available within the Wowchemy icon packs, and for more information about this widget, visit this link: https://wowchemy.com/docs/getting-started/page-builder/#icons.
 
 12. Optionally, it is possible to add a CV to your profile. To do this, uncomment the three "- icon:/  icon_pack:/  link:" lines by removing the hashtags (# ). Later, upload a copy of the person's CV under "static/files/cv.pdf". Note that this has not yet been tested for any existing people profiles.
 ![CV, Gravatar, highlight name, user groups](peopledocs11.png "CV, Gravatar, highlight name, user groups")
