@@ -11,6 +11,8 @@ role: Co-Lead
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=CVEUG22'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -46,6 +48,10 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=AYhJD_cAAAAJ&hl=pt-PT'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Catarina-Veiga-3'
+    
 #  - icon: github
 #    icon_pack: fab
 #    link: ''
