@@ -1,6 +1,11 @@
 ---
 # Display name
-title: Poppy Nikou 
+title: Poppy Nikou
+
+# Username (this should match the folder name)
+authors:
+  - Poppy Nikou
+
 # Is this the primary user of the site?
 superuser: false
 
