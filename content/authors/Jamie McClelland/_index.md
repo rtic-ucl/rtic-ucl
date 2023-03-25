@@ -11,6 +11,8 @@ role: Co-Lead
 organizations:
   - name: University College London
     url: ''
+  - name: UCL IRIS profile
+    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=JRMCC68'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -44,6 +46,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.co.uk/citations?user=IrDaFHEAAAAJ&hl=en'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Jamie-Mcclelland-2'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/jamie-mcclelland'
