@@ -4,7 +4,7 @@ title: Poppy Nikou
 
 # Username (this should match the folder name)
 authors:
-  - Poppy Nikou
+  - poppy-nikou
 
 # Is this the primary user of the site?
 superuser: false
