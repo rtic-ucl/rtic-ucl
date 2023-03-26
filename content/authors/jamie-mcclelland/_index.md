@@ -4,7 +4,7 @@ title: Jamie McClelland
 
 # Username (this should match the folder name)
 authors:
-  - Jamie McClelland
+  - jamie-mcclelland
 
 # Is this the primary user of the site?
 superuser: false
