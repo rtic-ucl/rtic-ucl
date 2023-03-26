@@ -3,8 +3,8 @@ title: Modelling intra- and inter-fractional anatomical changes for planning, gu
 date: 2023-03-16
 
 authors: 
-  - Poppy Nikou
-  - Jamie McClelland
+  - poppy-nikou
+  - jamie-mcclelland
 author_notes:
   - PhD student
   - Supervisor and Principal Investigator
