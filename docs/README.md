@@ -23,7 +23,7 @@ For further information, visit the wowchemy documentation: https://wowchemy.com/
 ![Authors folder](peopledocs3.png "Authors folder")
 This is the authors folder, where information of group members is stored. It is then displayed to the website via the people widget (../content/people/people.md).
 
-2. Create a new file, and call it ~~"<person's name>/_index.md". In this example, "Firstname Lastname/_index.md"~~ IMPORTANT: name the folder using the person's name in *lowercase letters* and with a hyphens instead of spaces to avoid broken urls. So it would be `firstname-lastname` (the example in the image is wrong). The slash (/) will automatically create a folder called <person's name> with a file called `_index.md` in that folder.
+2. Create a new file, and call it "<person's name>/_index.md". ~~In this example, "Firstname Lastname/_index.md"~~ *IMPORTANT: name the folder using the person's name in *lowercase letters* and with a hyphens instead of spaces to avoid broken urls*. So it would be `firstname-lastname` (the example in the image is wrong). The slash (/) will automatically create a folder called <person's name> with a file called `_index.md` in that folder.
 ![Click add file, a dropdown menu will appear](peopledocs4.png "Add file")
 ![Click Create new file in the dropdown](peopledocs5.png "Create new file")
 ![Write person's name in file name input](peopledocs6.png "Add person's name")
