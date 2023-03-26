@@ -4,7 +4,7 @@ title: Yuliang Huang
 
 # Username (this should match the folder name)
 authors:
-  - Yuliang Huang
+  - yuliang-huang
 
 # Is this the primary user of the site?
 superuser: false
