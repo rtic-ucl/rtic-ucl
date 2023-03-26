@@ -4,7 +4,7 @@ title: Alkisti Stavropoulou (she/her)
 
 # Username (this should match the folder name)
 authors:
-  - Alkisti Stavropoulou
+  - alkisti-stavropoulou
 
 # Is this the primary user of the site?
 superuser: false
