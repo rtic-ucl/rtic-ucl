@@ -4,7 +4,7 @@ title: Daniela Botnariuc
 
 # Username (this should match the folder name)
 authors:
-  - Daniela Botnariuc
+  - daniela-botnariuc
 
 # Is this the primary user of the site?
 superuser: false
