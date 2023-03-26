@@ -4,7 +4,7 @@ title: Catarina Veiga
 
 # Username (this should match the folder name)
 authors:
-  - Catarina Veiga
+  - catarina-veiga
 
 # Is this the primary user of the site?
 superuser: false
