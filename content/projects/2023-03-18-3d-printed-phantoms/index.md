@@ -3,8 +3,8 @@ title: 3D-Printed phantoms for quality assurance in paediatric radiotherapy
 date: 2023-03-18
 
 authors: 
-  - Mariana Bento
-  - Catarina Veiga
+  - mariana-bento
+  - catarina-veiga
 author_notes:
   - PhD student
   - Supervisor and Principal Investigator
