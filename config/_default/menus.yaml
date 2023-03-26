@@ -7,6 +7,10 @@ main:
   - name: Home
     url: #welcome.md
     weight: 10
+# Can add or remove these from the menu as needed
+  - name: Vision
+    url: #vision.md
+    weight: 15
   - name: Research Areas
     url: projects
     weight: 20
