@@ -4,7 +4,7 @@ title: Adam Szmul
 
 # Username (this should match the folder name)
 authors:
-  - Adam Szmul
+  - adam-szmul
 
 # Is this the primary user of the site?
 superuser: false
