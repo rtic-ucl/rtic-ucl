@@ -4,7 +4,7 @@ title: Mariana Bento
 
 # Username (this should match the folder name)
 authors:
-  - Mariana Bento
+  - mariana-bento
 
 # Is this the primary user of the site?
 superuser: false
