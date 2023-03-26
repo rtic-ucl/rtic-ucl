@@ -23,46 +23,46 @@ For further information, visit the wowchemy documentation: https://wowchemy.com/
 ![Authors folder](peopledocs3.png "Authors folder")
 This is the authors folder, where information of group members is stored. It is then displayed to the website via the people widget (../content/people/people.md).
 
-2. Create a new file, and call it "<person's name>/_index.md". In this example, "Firstname Lastname/_index.md". The slash (/) will automatically create a folder called <person's name> with a file called "_index.md" in that folder.
+2. Create a new file, and call it ~~"<person's name>/_index.md". In this example, "Firstname Lastname/_index.md"~~ IMPORTANT: name the folder using the person's name in *lowercase letters* and with a hyphens instead of spaces to avoid broken urls. So it would be `firstname-lastname` (the example in the image is wrong). The slash (/) will automatically create a folder called <person's name> with a file called `_index.md` in that folder.
 ![Click add file, a dropdown menu will appear](peopledocs4.png "Add file")
 ![Click Create new file in the dropdown](peopledocs5.png "Create new file")
 ![Write person's name in file name input](peopledocs6.png "Add person's name")
 ![Still in the file name input, write a slash and the _index.md, and it will create a folder](peopledocs7.png "Type /_index.md, and it will create a folder")
 
-3. Then, copy the "_index.md" file from a different person's folder to use as a template. 
+3. Then, copy the `_index.md` file from a different person's folder to use as a template. 
 ![Add contents from another person's _index.md into the file](peopledocs8.png "Add other person's file to use as template")
 
-4. Replace the name in the "title: " field to the display name for the person you want to make a profile for. *Display name* means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name). The username "author: " field should be set to the same name as the folder name.
+4. Replace the name in the `title: ` field to the display name for the person you want to make a profile for. *Display name* means that this is the name that actually appears on the website, although this is usually the same as the folder name. Pronouns can be added here as well (just type them after the name). The username "author: " field should be set to the same name as the folder name (still **lowercase** and with **hyphens**).
 
-5. The 'superuser' sets the main/primary user of the site. If set to "true", then that user would have a small profile/bio appear below any blog articles/projects where they are set to author. For now, all people are set to "superuser: false".
+5. The `superuser` sets the main/primary user of the site. For now, all people are set to `superuser: false`.
 
-6. The "role: " field is the displayed role which will appear below the person's name in their profile. This can be set to anything, even multiple roles or positions separated by commas. (e.g. "role: Principal Investigator, Supervisor, Co-lead")
+6. The `role: ` field is the displayed role which will appear below the person's name in their profile. This can be set to anything, even multiple roles or positions separated by commas. (e.g. `role: Principal Investigator, Supervisor, Co-lead`)
 
-7. The "organisations" list the different organisations that a person is part of. This will be useful for visitors and collaborators. Note that a link to the organisation's website must be provided in the "url: " field, but currently this is set to an empty field for all users because we have not yet made sure that this website adheres to UCL branding policies.
+7. The `organisations` list the different organisations that a person is part of. This will be useful for visitors and collaborators. Note that a link to the organisation's website must be provided in the "url: " field, but currently this is set to an empty field for all users because we have not yet made sure that this website adheres to UCL branding policies.
 
-8. Next, the "bio: " field is a few sentences which should appear at the end of blog posts/project pages where the person is set as author. This is optional, since the bio functions seems not to work in this website (I think it only shows a bio for the person set as "superuser"; currently nobody).
+8. Next, the `bio: ` field is a few sentences which should appear at the end of blog posts/project pages where the person is set as author.
 ![Write person's name in file name input](peopledocs9.png "Add person's name")
 
-9. The "interests: " field is a list of interests which shows up below the person's name, social icons, and role. Simply list a few of the person's research interests, there is no restriction for this field. 
+9. The `interests: ` field is a list of interests which shows up below the person's name, social icons, and role. Simply list a few of the person's research interests, there is no restriction for this field. 
 
-10. The "education: " field optionally lists some of the person's courses. In the "courses: - course: " field, add the course title and optionally the title of the thesis/dissertation as applicable. In the "courses:   institution: " field, add the name of the university that awarded the degree (or universities if the degree was jointly awarded). In the "couses:   year: " field, add the year of graduation/completion of that degree.
+10. The `education: ` field optionally lists some of the person's courses. In the `courses: - course: ` field, add the course title and optionally the title of the thesis/dissertation as applicable. In the `courses:   institution: ` field, add the name of the university that awarded the degree (or universities if the degree was jointly awarded). In the `couses:   year: ` field, add the year of graduation/completion of that degree.
 
-To add another degree, copy and paste the "- course/institution:/year:" bulletpoint such that the alignment is the same in both, and replace with the other course's information. (Note that for all existing author profiles, I added the most recent degrees at the top of the list.)
+To add another degree, copy and paste the `- course/institution:/year:` bulletpoint such that the alignment is the same in both, and replace with the other course's information. (Note that for all existing author profiles, I added the most recent degrees at the top of the list.)
 
-11. For social and academic networking, replace the link with the link to that person's corresponding social media or academic profile. If a type of profile (e.g. twitter) is not used, comment it out by adding hashtags (# ) at the start of each line, or alternatively delete that whole "- icon:/ icon_pack:/ link:" bulletpoint.
+11. For social and academic networking, replace the link with the link to that person's corresponding social media or academic profile. If a type of profile (e.g. twitter) is not used, comment it out by adding hashtags (# ) at the start of each line, or alternatively delete that whole `- icon:/ icon_pack:/ link:` bulletpoint.
 ![Social/academic networking](peopledocs10.png "Social/academic networking")
 This contents will appear as clickable icons below that person's name and role, which will open the corresponding link in a new tab.
 
 To see which social media/academic icons are already available within the Wowchemy icon packs, and for more information about this widget, visit this link: https://wowchemy.com/docs/getting-started/page-builder/#icons.
 
-12. Optionally, it is possible to add a CV to your profile. To do this, uncomment the three "- icon:/  icon_pack:/  link:" lines by removing the hashtags (# ). Later, upload a copy of the person's CV under "static/files/cv.pdf". Note that this has not yet been tested for any existing people profiles.
+12. Optionally, it is possible to add a CV to your profile. To do this, uncomment the three `- icon:/  icon_pack:/  link:` lines by removing the hashtags (# ). Later, upload a copy of the person's CV under `static/files/cv.pdf`. Note that this has not yet been tested for any existing people profiles.
 ![CV, Gravatar, highlight name, user groups](peopledocs11.png "CV, Gravatar, highlight name, user groups")
 
 13. Gravatar is not enabled in "config", so leave the Gravatar "email: " field blank, or delete those two lines (62 and 63 in the image).
 
-14. Set "highlight_name: " to "true" if you want this author to be highlighted in author lists in blog posts or project pages. Note that no other profile currently have this feature enabled.
+14. Set `highlight_name: ` to `true` if you want this author to be highlighted in author lists in blog posts or project pages. Note that no other profile currently have this feature enabled.
 
-15. The "user_groups: " field determines which title (or titles) this person will appear under in the people widget. If a person belongs to multiple user gorups, they will appear twice - once under each title coresponding to their user groups. To see the existing user groups in the "People" page of the website, go to "../content/people/people.md".
+15. The `user_groups: ` field determines which title (or titles) this person will appear under in the people widget. If a person belongs to multiple user gorups, they will appear twice - once under each title coresponding to their user groups. To see the existing user groups in the "People" page of the website, go to "../content/people/people.md".
 
 16. Finally, anything under the three dashes (---) will appear in that person's personal page. Add as little or as much information as you like: for example, a biography, fun facts about that person, or details about theur research. This section is written in markdown, so titles, bold text, and italic text can be added if desired. (see https://wowchemy.com/docs/content/writing-markdown-latex/)
 ![Write biography under the three dashes (---)](peopledocs12.png "Biography")
@@ -101,19 +101,19 @@ To see which social media/academic icons are already available within the Wowche
 
 3. In this new file, copy and paste the contents from a different project to use as a template.
 
-4. The first field "title: " is the project's display name. Type it as you want it to appear on the website.
+4. The first field `title: ` is the project's display name. Type it as you want it to appear on the website.
 
-5. Add the date in the "date: " field in the format "yyyy-mm-dd" (year first, then month, then date) for sorting purposes.
+5. Add the date in the `date: ` field in the format "yyyy-mm-dd" (year first, then month, then date) for sorting purposes.
 
-6. In the "authors: " field, type a list of people in this project. Their names will show up in the project page with a clickable link to their profile. The "author_notes: " field can include extra information about each respective author when hovering on their name. For example, "- Supervisor".
+6. In the `authors: ` field, type a list of people in this project, using their usernames (lowercase with hyphen, like `firstname-lastname`). Their names will show up in the project page with a clickable link to their profile. The "author_notes: " field can include extra information about each respective author when hovering on their name. For example, `- Supervisor`.
 ![Authors, author notes, and project tags](projectdocs6.png "Authors, author notes, and project tags")
 
-7. The "tags: " field is a list of tags which will appear below the project description the website. Add any keywords, for example "- Dosimetry".
+7. The `tags: ` field is a list of tags which will appear below the project description the website. Add any keywords, for example `- Dosimetry`.
 
-8. "profile: true" is supposed to enable author bios underneath the project descriptions, but this does not seem to work. :pensive:
+8. `profile: true` enables author bios underneath the project descriptions.
 ![Profile and Image display settings](projectdocs7.png "Profile and Image display settings")
 
-9. The lines under "image: " affect the appearance of the project's features image. "placement: " affects the image width in the project page. Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width. Defaults to 1, full column width. "focal_point: " affects how the image is cropped in the preview for smaller screens. Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight. Set "preview_only" to "true" to just use the image for the thumbnail in the preview and not the actual project page. "alt_text: " sets alternative text for screen readers or for errors/poor connection when the image cannot be displayed.
+9. The lines under `image: ` affect the appearance of the project's features image. `placement: ` affects the image width in the project page. Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width. Defaults to 1, full column width. `focal_point: ` affects how the image is cropped in the preview for smaller screens. Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight. Set `preview_only` to `true` to just use the image for the thumbnail in the preview and not the actual project page. `alt_text: ` sets alternative text for screen readers or for errors/poor connection when the image cannot be displayed.
 
 10. Everything under the three dashes (---) will appear as an extended description in the project page. But any sentences above the `<!-- more --> ` tag will also appear in the preview. The paragraph(s) underneath can be formatted in markdown, [click here](https://wowchemy.com/docs/content/writing-markdown-latex/) for more formatting options.
 ![Extended description under the three dashes ---](projectdocs8.png "Extended description")
@@ -123,7 +123,7 @@ To see which social media/academic icons are already available within the Wowche
 
 #### Adding a featured picture
 
-12. The "featured" picture is the picture that appears in the project preview, and also at the top of the project page if "preview_only: " is set to "false". Find the project image in you computer files, and rename it to "featured.png", or "featured.jpg" depending on the file type.
+12. The "featured" picture is the picture that appears in the project preview, and also at the top of the project page if `preview_only: ` is set to `false`. Find the project image in you computer files, and rename it to "featured.png", or "featured.jpg" depending on the file type.
 ![Find desired picture file in computer files](projectdocs10.png "Find file in computer files")
 ![Rename to featured.png or featured.jpg](projectdocs11.png "Rename file")
 
