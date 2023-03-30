@@ -8,5 +8,5 @@ design:
   columns: '1'
   background:
     image: affiliation-logos.png
-    size: contain
+      size: contain
 ---
