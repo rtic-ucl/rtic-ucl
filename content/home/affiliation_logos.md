@@ -9,4 +9,4 @@ design:
 ---
 
 
-{{< gallery album="logo_files" > resize_options="250x250" >}} 
+{{< gallery album="logo_files" resize_options="250x250" >}} 
