@@ -1,5 +1,5 @@
 ---
-title: Modelling anatomical changes of head and neck cancer patients during radiotherapy treatment
+title: Anatomical changes of head and neck cancer patients during radiotherapy treatment
 date: 2023-03-16
 
 authors: 
@@ -23,7 +23,7 @@ image:
   alt_text: Proton treatment Lung cross-section
 ---
 
-Modelling anatomical changes of head and neck cancer patients during radiotherapy treatment
+This project focuses on developing novel methodologies for modelling the anatomical changes of head and neck cancer patients during radiotherapy treatment
 
 <!--more-->
 
