@@ -1,5 +1,5 @@
 ---
-title: Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
+title: Modelling anatomical changes of head and neck cancer patients during radiotherapy treatment
 date: 2023-03-16
 
 authors: 
@@ -10,7 +10,9 @@ author_notes:
   - Supervisor and Principal Investigator
 tags:
   - Head and Neck cancer
-  - Lung cancer
+  - Modelling
+  - CT 
+  - CBCT
 
 profile: true
 
@@ -21,10 +23,15 @@ image:
   alt_text: Proton treatment Lung cross-section
 ---
 
-Modelling intra- and inter-fractional anatomical changes for planning, guiding, and monitoring radiotherapy treatment of lung and H&N patients 
+Modelling anatomical changes of head and neck cancer patients during radiotherapy treatment
 
 <!--more-->
 
-This project focuses on developing new techniques to improve the accuracy of radiotherapy treatment for patients with lung and head and neck (H&N) cancers. By combining advanced imaging technology and sophisticated computer modeling, we are able to track anatomical changes between and within fractions of radiotherapy treatments, taking account changes from weight loss between treatments to breathing motions during administration of radiotherapy. This allows us to accurately plan, guide, and monitor a patient's treatment throughout the duration of their therapy, improving the accuracy and effectiveness of the treatment. Our research is paving the way for more precise and personalized cancer treatment, and we are committed to continuing to develop new and innovative methods for making radiotherapy more effective for our patients.
+Proton radiotherapy treatment is often the treatment of choice for head and neck
+cancer patients. The sensitivity of protons in tissue means the anatomy of the patient must be known exactly at the point of treatment. Inter-fractional anatomical changes hwoever, have been observed in head and neck cancer patients during the course of treatment. Ideally, a patient would be administered a treatment plan which is robust against all potential anatomical changes. To create anatomically robust treatment plans, a patient's anatomical changes must be aniticipted in advance.
+
+The aim of this project is to develop novel techniques to model the anatomical changes of head and neck cancer patients during radiotherapy treatment. These could then be used to developed.
+
+
 
 
