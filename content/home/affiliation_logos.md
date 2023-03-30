@@ -9,4 +9,4 @@ design:
 ---
 
 
-{{< gallery album="logo_images" >}} 
+{{< gallery album="logo_files/" >}} 
