@@ -8,5 +8,4 @@ design:
   columns: '1'
 ---
 
-
-{{< gallery album="logo_files" resize_options="250x250" >}} 
+![Our Affiliations: RTIC is affiliated with CMIC, i4health and weiss (Wellcome centre for interventianal surgical sciences)](affiliation-logos.png "Affiliations")
