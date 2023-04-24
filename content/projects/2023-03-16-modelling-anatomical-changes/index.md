@@ -27,11 +27,11 @@ This project focuses on developing novel methodologies for modelling the anatomi
 
 <!--more-->
 
-Proton radiotherapy treatment is often the treatment of choice for head and neck cancer patients. The sensitivity of protons in tissue means the anatomy of the patient must be known exactly at the point of treatment. Inter-fractional anatomical changes hwoever, have been observed in head and neck cancer patients during the course of treatment. Ideally, a patient would be administered a treatment plan which is robust against all potential anatomical changes. To create anatomically robust treatment plans, a patient's anatomical changes must be aniticipted in advance.
+Head and neck cancer patients often experience large anatomical changes during radiotherapy treatment. Ideally, these changes would be anticipated in advance of treatment, aiding in robust treatment planning and adaptive radiotherapy pathways. This project focuses on building novel anatomical models of head and neck cancer patients using CT and on-board CBCT imaging. 
 
 ![](/hn_gif.gif)
 
-The aim of this project is to develop novel techniques to model the anatomical changes of head and neck cancer patients during radiotherapy treatment. These could then be used to developed.
+
 
 
 
