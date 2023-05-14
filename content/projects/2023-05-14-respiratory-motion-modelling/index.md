@@ -20,9 +20,10 @@ profile: true
 image:
   placement: 1
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
   alt_text: Lung mask
 ---
+{{< video src="lung-mask.mp4" controls="no" >}}
 
 Respiratory motion can cause errors and uncertainties when planning and delivery radiotherapy treatments to targets in the thorax and abdomen.
 
@@ -30,6 +31,5 @@ Respiratory motion can cause errors and uncertainties when planning and delivery
 
 At RTIC we are developing models of respiratory motion which include breath-to-breath variability, methods of fitting these models to a variety of imaging data including (unsorted) 4DCT, multi-slice MRI, and CBCT projection data, and tools for using these models to improve future radiotherapy treatments.
 
-{{< video src="mri_motion_model.mp4" controls="no" >}}
 {{< video src="fourDCT_motion_model.mp4" controls="no" >}}
 
