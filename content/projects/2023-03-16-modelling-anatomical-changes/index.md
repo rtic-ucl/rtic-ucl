@@ -29,4 +29,3 @@ This project focuses on developing novel methodologies for modelling the anatomi
 
 Head and neck cancer patients often experience large anatomical changes during radiotherapy treatment. Ideally, these changes would be anticipated in advance of treatment, aiding in robust treatment planning and adaptive radiotherapy pathways. This project focuses on building novel anatomical models of head and neck cancer patients using CT and on-board CBCT imaging. 
 
-{{< video src="/hn_gif.mp4" controls="no" >}}
