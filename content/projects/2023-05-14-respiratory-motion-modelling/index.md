@@ -28,9 +28,9 @@ Respiratory motion can cause errors and uncertainties when planning and delivery
 
 <!--more-->
 
-{{< video src="lung-mask.mp4" controls="no" >}}
+{{< video src="lung-mask.mp4">}}
 
 At RTIC we are developing models of respiratory motion which include breath-to-breath variability, methods of fitting these models to a variety of imaging data including (unsorted) 4DCT, multi-slice MRI, and CBCT projection data, and tools for using these models to improve future radiotherapy treatments.
 
-{{< video src="fourDCT_motion_model.mp4" controls="no" >}}
+{{< video src="fourDCT_motion_model.mp4" controls="yes" >}}
 
