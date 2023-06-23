@@ -35,4 +35,4 @@ My research is on enabling adaptive radiotherapy, which adjusts the planned trea
 
 We use machine learning methods to improve the quality of those scans, generating synthetic CTs based on them with their quality and characteristics closer to the planning CTs. Those synthetic CTs can be used to check if the plan is still accurate and can be safely delivered to the patient or whether the plan should be adjusted. With the improved quality of the images the radiotherapy plan could be adjusted for the patient's anatomy changes while they are already on the treatment bed.  
 
-...
+
