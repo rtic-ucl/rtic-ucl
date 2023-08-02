@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Jamie McClelland
-weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -74,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  -  
+  - Principal Investigator
 
 ---
 
