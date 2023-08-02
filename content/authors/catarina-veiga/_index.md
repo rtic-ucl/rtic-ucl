@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-Lead
+role: Co-Investigator
 
 # Organizations/Affiliations
 organizations:
