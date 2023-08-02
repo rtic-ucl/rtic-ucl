@@ -3,7 +3,7 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Areas
-# subtitle: Our group is focused on developing and applying state-of-the art methods to solve challenging problems in radiotherapy image computing. We use a wide range of techniques, from image processing algorithms and statistical modelling to machine learning and deep learning. We also have experience in developing physical phantoms to be used in paediatric radiotherapy.
+# subtitle: Our group is focused on developing and applying state-of-the art methods to solve challenging problems in radiotherapy image computing. We use a wide range of techniques, from image processing algorithms and statistical modelling to machine learning and deep learning. 
 # Position of this section on the page
 weight: 10
 
