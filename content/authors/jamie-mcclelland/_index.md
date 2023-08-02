@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jamie McClelland
-weight = 1
+weight: 1
 
 # Username (this should match the folder name)
 authors:
