@@ -27,7 +27,7 @@ design:
 Our group’s overarching research vision is to advance the field of radiotherapy treatment using medical image computing. We aim to achieve this by developing research specific software, fostering a multidisciplinary research environment and by keeping a clinical focus to all our problems.
 
 ## State-of-the art methods
-Our group is focused on developing and applying state-of-the art methods to solve challenging problems in radiotherapy image computing. We use a wide range of techniques, from image processing algorithms and statistical modelling to machine learning and deep learning. We also have experience in developing physical phantoms to be used in paediatric radiotherapy.
+Our group is focused on developing and applying state-of-the art methods to solve challenging problems in radiotherapy image computing. We use a wide range of techniques, from image processing algorithms and statistical modelling to machine learning and deep learning.
 {{% cta cta_link="./projects/" cta_text="Our Research Areas →" %}}
 
 ## Software
