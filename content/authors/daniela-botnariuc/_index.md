@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Affiliated Members
 ---
 
 Daniela is currently in the final year of her PhD studies as part of the RTIC group in the Department of Medical Physics and Biomedical Engineering, at UCL. Her PhD focusses on the development of Monte Carlo (MC) tools to support clinical decision-making in proton therapy. Daniela has been working very closely with the medical physics team at the University College London Hospitals (UCLH) proton centre. She developed a MC model of the proton beam delivery system to simulate treatment plans accurately. This model is currently being used clinically by our collaborators at UCLH. Additionally, she has developed and validated an automated pipeline to simulate treatment plans in MC. Daniela has applied this pipeline to recalculate patient-specific quality assurance plans for dose verification purposes, as well as accurate out-of-field dose calculation for risk estimation of radiation-induced second cancers.
