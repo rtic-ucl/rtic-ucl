@@ -12,6 +12,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 12
 
-title: 'Affiliations:'
-subtitle:
+title: 'Watch our group intro video'
+subtitle: 'https://www.youtube.com/@RTIC_UCL'
 {{< youtube Gr0EcDk1h_0 >}}
