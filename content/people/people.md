@@ -21,7 +21,7 @@ content:
     - Research Fellows
     - PhD students
     - Graduate students
-    - Affiliates
+    - Affiliated Members
     - Visitors
     - Alumni
 design:
