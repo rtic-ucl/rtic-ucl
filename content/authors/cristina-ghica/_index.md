@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Affiliated Members
 ---
 
 I am an MRes Medical Imaging student within the EPSRC Centre for Doctoral Training in Intelligent, Integrated Imaging in Healthcare (i4health). My research focuses on developing novel image guidance protocols to ensure the accurate delivery of abdominal paediatric proton beam therapy while reducing unnecessary diagnostic exposures to radiation. I aim to achieve this by combining artificial intelligence with various types of in-room imaging modalities able to monitor inter-fraction anatomical changes such as bowel gas variation.
