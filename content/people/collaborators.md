@@ -27,6 +27,7 @@ design:
 - [Institute of Nuclear Medicine, INM, UCL, London](https://www.ucl.ac.uk/nuclear-medicine/)
 - [High Energy Physics, HEP, UCL, London](https://www.hep.ucl.ac.uk)
 - [University College London Hospital Hospital, UCLH, London](https://www.uclh.nhs.uk)
+- [Guy's and St Thomas Hospital, London](https://www.guysandstthomas.nhs.uk/)
 - [Kings College London, KCL, London](https://www.kcl.ac.uk)
 - [Institute of Cancer Research and the Royal Marsden Hospital, ICR/RMH, London](https://www.icr.ac.uk/our-research/our-strategic-partners/the-royal-marsden-nhs-foundation-trust)
 - [The Christie Hospital, Manchester](https://www.christie.nhs.uk)
