@@ -1,42 +1,37 @@
 ---
 # Display name
-title: Adam Szmul
+title: Clea Dronne
 
 # Username (this should match the folder name)
 authors:
-  - adam-szmul
+  - Clea-Dronne
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Research Fellow
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
   - name: University College London
     url: ''
   - name: UCL IRIS profile
-    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=ASZMU61'
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Machine learning in radiotherapy applications
-  - Adaptive Radiotherapy
-  - Medical Image registration
-  - Supervoxel image representation and its applications
-  - Radiation Induced Lung Damage
+  - Radiotherapy
+  - Deep learning
+  - Head and neck cancer
 
 education:
   courses:
-    - course: Doctor of Philosophy (DPhil), "Multi-modal image fusion in lung cancer application"
-      institution: University of Oxford, Oxford, UK
-      year: 2019
-    - course: MSc Electronics and Telecommunication, "Segmentation of tomographic medical data for diagnosis and radiotherapy of prostate cancer changes"
-      institution: AGH University of Science and Technology, Krakow, Poland
-      year: 2009
+    - course: Master's degree in Physics
+      institution: The University of Manchester
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,19 +40,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:a.szmul@ucl.ac.uk'
-  - icon: twitter
-    icon_pack: fab
-    link: 'https://twitter.com/adamszmul?lang=en'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 'https://scholar.google.co.uk/citations?user=VPI8rw8AAAAJ&hl=en'
-  - icon: researchgate
-    icon_pack: ai
-    link: 'https://www.researchgate.net/profile/Adam-Szmul-2'
+    link: 'mailto:clea.dronne.23@ucl.ac.uk'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: ''
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: ''
+#  - icon: researchgate
+#    icon_pack: ai
+#    link: ''
   - icon: linkedin
     icon_pack: fab
-    link: 'https://uk.linkedin.com/in/adam-szmul-6545a0113'
+    link: 'https://www.linkedin.com/in/cleadronne/'
 
     
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Fellows
+  - PhD students
 ---
+I am a first-year PhD student in the Radiotherapy Image Computing Group (RTIC) group. My research focuses on modelling the uncertainties of automated/AI and manual delineations of organs at risk for radiotherapy treatment planning. 
 
-Adam Szmul is a Senior Research Fellow at Radiotherapy Image Computing Group within the UCL Wellcome/EPSRC Centre for Interventional and Surgical Sciences. Adam completed his DPhil at the Institute of Biomedical Engineering at the University of Oxford, where he worked on novel methods for multi-modal lung image registration for CT, MRI and hyperpolarised Xenon-MRI, and CT-based ventilation estimation methods. While at UCL, Adam worked on developing an automatic framework for identifying and segmenting different classes of parenchymal lung damage. Recently, he worked on AI-methods for image synthesis for paediatric abdomen patients using unsupervised machine learning techniques. Adam coordinated RTIC’s appearances at Science of Surgery and at Bloomsbury Festival. Adam is also engaging with policy makers by presenting his research at the House of Parliament and in Multi-agency advisory service for AI and digital technologies. Adam was previously awarded CMIC Platform Grant and UCL-PKU Strategic Partner Grant by UCL Global Engagement.
