@@ -2,7 +2,7 @@
 title: Outreach events in early 2024
 date: 2024-30-05
 image:
-  placement: 1
+  placement: 3
   focal_point: "Smart"
   preview_only: false
   alt_text: RTIC member at outreach event.
