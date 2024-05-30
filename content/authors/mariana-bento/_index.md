@@ -17,7 +17,7 @@ organizations:
   - name: University College London
     url: ''
   - name: UCL IRIS profile
-    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=MCBEN89'
+    url: '[https://iris.ucl.ac.uk/iris/browse/profile?upi=MCBEN89](https://profiles.ucl.ac.uk/80718-mariana-bento)'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My name is Mariana, I'm 25 years old, and I come from a small town in Portugal by the coast. Graduated as a Biomedical Engineer, science, technology, research, innovation and persistence are the keywords defining me as a professional. My PhD research is on developing 3D printed phantoms for quality assurance in paediatric radiotherapy.
