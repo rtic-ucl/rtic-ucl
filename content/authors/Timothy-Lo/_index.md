@@ -15,7 +15,9 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
   - name: University College London
-    url: 'https://profiles.ucl.ac.uk/98342-timothy-lo'
+    url: ''
+ - name: UCL IRIS profile
+    url: '[https://profiles.ucl.ac.uk/95418-clea-dronne](https://profiles.ucl.ac.uk/98342-timothy-lo)'
 
 
 # Short bio (displayed in user profile at end of posts)
