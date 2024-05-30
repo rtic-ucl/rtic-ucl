@@ -17,7 +17,7 @@ organizations:
   - name: University College London
     url: ''
   - name: UCL IRIS profile
-    url: 'https://iris.ucl.ac.uk/iris/browse/profile?upi=YYHUA54'
+    url: '[https://iris.ucl.ac.uk/iris/browse/profile?upi=YYHUA54](https://profiles.ucl.ac.uk/86241-yuliang-huang)'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in the RTIC group. I am keen to research general deep learning and optimization techniques, as well as their application in more specific domains such as image registration/reconstruction, automatic treatment planning and adaptation of radiotherapy, and more.
