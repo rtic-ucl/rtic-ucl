@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
   - name: University College London
-    url: ''
+    url: 'https://profiles.ucl.ac.uk/98342-timothy-lo'
 
 
 # Short bio (displayed in user profile at end of posts)
