@@ -1,6 +1,6 @@
 ---
 title: RTIC Outreach Events 2024
-date: 2024-30-05
+date: 2024-05-30
 image:
   placement: 3
   focal_point: "Smart"
