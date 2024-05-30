@@ -1,6 +1,6 @@
 ---
 title: RTIC News 2024
-date: 2024-05-31
+date: 2024-05-29
 image:
   placement: 4
   focal_point: "Smart"
