@@ -2,7 +2,7 @@
 title: RTIC research group attend ISBI 2023
 date: 2023-03-07
 image:
-  placement: 1
+  placement: 2
   focal_point: "Smart"
   preview_only: false
   alt_text: RTIC PhD Student Yuliang Huang presenting his work at the CT imaging session.
