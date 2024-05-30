@@ -2,7 +2,7 @@
 title: RTIC News 2024
 date: 2024-05-31
 image:
-  placement: 3
+  placement: 4
   focal_point: "Smart"
   preview_only: false
   alt_text: RTIC members at UCL-Christie workshop.
