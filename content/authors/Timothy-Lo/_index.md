@@ -16,7 +16,7 @@ role: PhD student
 organizations:
   - name: University College London
     url: ''
- - name: UCL IRIS profile
+  - name: UCL IRIS profile
     url: 'https://profiles.ucl.ac.uk/98342-timothy-lo'
 
 
