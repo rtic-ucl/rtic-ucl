@@ -1,6 +1,6 @@
 ---
 title: RTIC research group attend ISBI 2023
-date: 2023-03-07
+date: 2023-04-20
 image:
   placement: 2
   focal_point: "Smart"
