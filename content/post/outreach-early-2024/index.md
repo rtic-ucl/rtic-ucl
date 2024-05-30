@@ -1,5 +1,5 @@
 ---
-title: Outreach events in early 2024
+title: RTIC Outreach Events 2024
 date: 2024-30-05
 image:
   placement: 3
