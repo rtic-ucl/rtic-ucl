@@ -33,7 +33,7 @@ design:
 - [The Christie Hospital, Manchester](https://www.christie.nhs.uk)
 - [Leeds Cancer Centre, Leeds](https://www.leedsth.nhs.uk/a-z-of-services/leeds-cancer-centre/)
 - [Cambridge University Hospitals, Cambridge](https://www.cuh.nhs.uk/)
-- [Radiotherapy Trials Quality Assurance, RTTQA, UK](http://www.rttrialsqa.org.uk/rttqa/)
+- [Radiotherapy Trials Quality Assurance, RTTQA, UK](https://rttrialsqa.org.uk/)
 - [National Physical Laboratory, NPL, UK](https://www.npl.co.uk)
 - [University of Auckland, New Zealand](https://www.auckland.ac.nz/en.html)
 - [Elekta](https://www.elekta.com)
