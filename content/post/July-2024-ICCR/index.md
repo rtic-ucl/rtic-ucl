@@ -21,4 +21,14 @@ Two PhD students, Poppy Nikou and Yuliang Huang, presented their works on  “Mo
 
 The presentations from the RTIC group received significant attention, underscoring the impact and relevance of their work in the rapidly evolving field of radiotherapy. The insights gained and connections made during the conference are expected to further drive the group's future research endeavors.
 
+Previous publications show our research in these areas [1,2,3] and conference proceedings will be published shortly on HAL.
+
+We thank the organisers David Sarrut and Simon Rit for organising such a great conference. We look forward to the next one in Quebec!
+
+
+References:
+1.Szmul, Adam, et al. "Deep learning based synthetic CT from cone beam CT generation for abdominal paediatric radiotherapy." Physics in Medicine & Biology 68.10 (2023): 105006.
+2.Nikou, Poppy, et al. "Modelling systematic anatomical uncertainties of head and neck cancer patients during fractionated radiotherapy treatment." Physics in Medicine and Biology (2024).
+3.Huang, Yuliang, et al. "Surrogate-driven respiratory motion model for projection-resolved motion estimation and motion compensated cone-beam CT reconstruction from unsorted projection data." Physics in Medicine & Biology 69.2 (2024): 025020.
+
 
