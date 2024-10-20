@@ -74,5 +74,5 @@ highlight_name: false
 user_groups:
   - PhD students
 ---
-I am a first-year PhD student in the Radiotherapy Image Computing Group (RTIC) group. My research focuses on modelling the uncertainties of automated/AI and manual delineations of organs at risk for radiotherapy treatment planning. 
+PhD student at UCL in the Radiotherapy Image Computing (RTIC) group. My research focuses on modelling the variability of organs at risk contours for radiotherapy using Deep Learning, specifically Variational Auto-Encoders. 
 
